@@ -10,7 +10,10 @@ mongoose.connect('mongodb+srv://viniciusdev:schneider0308@cluster0-fnbat.mongodb
     useUnifiedTopology: true,
 });
 
+// zxubiojdioasjiodas
+
 app.use(express.json());
+
 
 app.use(routes);
 
